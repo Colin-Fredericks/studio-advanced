@@ -1,4 +1,4 @@
-# TODO for Teak Revision
+# TODO for Verawood Revision
 
 ## General Notes
 
@@ -6,23 +6,24 @@
 - ✅ Drop in new versions of [hx.js, hx.css, and helper files](https://github.com/Colin-Fredericks/hx-js).
 - May be worth renaming the Summary pages to include the particular topic, just because it's the first thing people see on the page.
 
-## Tabs
+## ✅ Tabs
 
-### Course page
+### ✅ Course page
 
-- ❌CSS in the Update section isn't working - the images should be smaller and arranged in a square.
-  - Turns out CSS isn't available in the HTML editor for Updates. Needs to be removed. ☹️
-- The dots are missing
-- The xblock URLs aren't working, which is generally going to happen when the course moves servers anyway.
-- Take into account the fold (which wasn't there in the old days).
+- ✅ CSS in the Update section isn't working - the images should be smaller and arranged in a square.
+  - Turns out CSS isn't available in the HTML editor for Updates. ☹️ Removed.
+- ✅ The dots are missing - removed
+- ✅ The xblock URLs aren't working, which is generally going to happen when the course moves servers anyway - Removed to simplify.
+- ✅ Take into account the fold (which wasn't there in the old days).
 
-### Links page
+### ✅ Links page
 
-- We should probably move to a more curated sharing option for the links page, given that we're finally experiencing spam on edx.org.
+- ✅ We should probably move to a more curated sharing option for the links page, given that we're finally experiencing spam on edx.org.
+  - Removed and replaced with a Resources page, which currently points towards existing Open edX docs and guidelines.
 
-### Key page
+### ✅ Key page
 
-- Looks good!
+- ✅ Looks good!
 
 ## Welcome
 
