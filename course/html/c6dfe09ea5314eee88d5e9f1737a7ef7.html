@@ -1,13 +1,10 @@
-<script src="/static/hx.js"></script>
-<link rel="stylesheet" type="text/css" href="/static/hx.css">
-
 <h3 class="hx-underline">Flowchart of success</h3>
 <a href="/static/Setup_in_edX.pdf" target="_blank"><img style="width:25%" src="/static/Setup_in_edX.png" alt="A flowchart for css use on edX, starting from creating the css file to upload in edX files to reference on the page you'd like it to appear" class="hx-hangright" /></a>
 <p>The hardest part of all of using CSS is deciding what you want to design and how you wish it to display. Once you've worked that out, the rest is straightforward. Consistency of code across your course pages is pretty rewarding in the long run (even if it feels like a bit of a slog initially, trust us!).</p>
 <p></p>
 <p>So, you've just made a great .css file. What next?</p>
 <p></p>
-<p>First, you need to upload the file into your edX course. This is just like any other file upload in Studio: </p>
+<p>First, you need to upload the file into your Open edX course. This is just like any other file upload in Studio: </p>
 <blockquote>Content &gt; Files &amp; Uploads &gt; Upload file</blockquote>
 <p></p>
 <p>Then you need to reference the use of the CSS on each page (unit). There isn't an "apply to all pages" selection on the platform, nor would that always be a good idea (e.g. sometimes you want to use different CSS and would then need a complex 'exceptions' method) so you need to add this on manualsp;</p>
@@ -17,7 +14,7 @@
 <pre style="width:75%"><code class="lang-html">&#x3C;link rel=&#x22;stylesheet&#x22; type=&#x22;text/css&#x22; href=&#x22;/static/example.css&#x22;&#x3E;
 </code></pre>
 
-<p>Remember to change the edx /static/ studio file reference, in the code above, to your own .css file. Also, remember that you <em>must</em> use a Raw HTML component, not just a text component. Follow this link to the the edX documentation if you don't remember <a href="https://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/course_components/create_html_component.html#options-for-editing-html-components" target="_blank">how to switch between raw and visual editors</a>.</p>
+<p>Remember to change the Open edX /static/ studio file reference, in the code above, to your own .css file. Also, remember that you <em>must</em> use a Raw HTML component, not just a text component. Follow this link to the the Open edX documentation if you don't remember <a href="https://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/course_components/create_html_component.html#options-for-editing-html-components" target="_blank">how to switch between raw and visual editors</a>.</p>
 <p>Then go about your normal page creation. If you have created a new feature such as 'purplebox' or 'hx-underline', these will need to be added into the HTML of the text component on page, for example:</p>
 
 <pre style="width:75%"><code class="lang-html">&#x3C;h4 class="hx-underline"&#x3E;Something I now know&#x3C;/h4&#x3E;

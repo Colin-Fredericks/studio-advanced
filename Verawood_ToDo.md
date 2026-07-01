@@ -29,33 +29,33 @@
 
 ### Welcome to Studio Advanced
 
-#### Welcome and Survey
+#### ✅ Welcome and Survey
 
-- Polls seem ok. Check to see whether the emojis still work for accessibility purposes.
+- ✅ Polls seem ok. Check to see whether the emojis still work for accessibility purposes.
 
-#### Navigation
+#### ✅ Navigation
 
-- Not a huge fan of a single line of dots and squares; maybe we can switch this to two lines and more distinct shapes?
+- ✅ Not a huge fan of a single line of dots and squares; maybe we can switch this to two lines and more distinct shapes?
 
 ### Navigation pages
 
 #### Advanced Course Planning
 
 - Come back to these for revision once we've pruned the sections they refer to.
-- Oh hey where are the originals for these videos? We should put those somewhere that Open edX can own them.
-- The videos also appear to not be loading.
+- ✅ Oh hey where are the originals for these videos? We should put those somewhere that Open edX can own them.
+- ✅ The videos also appear to not be loading.
 
-#### Improved Operations
+#### ✅ Improved Operations
 
-#### Short Projects
+#### ✅ Short Projects
 
-#### Long Projects
+#### ✅ Long Projects
 
-### Important pre-course survey
+### ✅ Important pre-course survey
 
-#### Pre-course Survey
+#### ✅ Pre-course Survey (deleted)
 
-- Ditch or replace this. This is from HarvardX, and we don't need to gather peoples' data.
+- ✅ Ditch or replace this. This is from HarvardX, and we don't need to gather peoples' data. (deleted)
 
 ## 1 Advanced Course Planning
 
@@ -66,7 +66,7 @@
 ### 1.1 - Creating a style sheet
 
 - **Summary:**
-  - Switch references from "edX" to "Open edX"
+  - ✅ Switch references from "edX" to "Open edX"
   - Add notes about course-wide CSS
   - Why are the icons so huge?
 - **Why bother?**
