@@ -21,7 +21,9 @@
           <span class="sr">Incorrect</span>
         </span>
       </choice>
-      <choice correct="false"><span class="sr">Confused</span></choice>
+      <choice correct="false">
+        <span class="sr">Confused</span>
+      </choice>
     </choicegroup>
     <solution>
       <div class="detailed-solution">

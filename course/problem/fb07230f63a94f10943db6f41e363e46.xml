@@ -1,10 +1,12 @@
 <problem display_name="Making lines" markdown="null" max_attempts="2" showanswer="finished">
   <multiplechoiceresponse>
     <p>If you wanted to reduce the length of the underline by half (50%) in the CSS example below:</p>
-<pre><code class="lang-css">.hx-underline {
+    <pre>
+      <code class="lang-css">.hx-underline {
     border-bottom: 1px solid #378;
     width: 600px;
-}</code></pre>
+}</code>
+    </pre>
     <p/>
     <p>Which attribute would you need to change and what would you change it to?</p>
     <p/>
