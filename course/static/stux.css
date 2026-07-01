@@ -40,11 +40,14 @@
 }
 
 .stux-infobox {
-  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 5px 10px;
   border: 1px dashed grey;
   margin: 5px;
   border-radius: 3px;
 }
+
 .stux-infoicon {
   width: 75px;
   margin: 2px;
