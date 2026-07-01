@@ -3,7 +3,7 @@
     <p>You've created a new update on your course and made it look really pretty with lovely consistent HTML. However, to your horror, it's not appearing on the front page of your course when you view in live. You can definitely see it in the updates section but strangely not where it should be on the landing page. Even when you preview in 'student view' it still isn't there.</p>
     <label> What is the most likely explaination? </label>
     <choicegroup type="MultipleChoice">
-      <choice correct="false">edX has crashed and the server is down</choice>
+      <choice correct="false">Open edX has crashed and the server is down</choice>
       <choice correct="true">You've been enrolled on the course for longer than 3 weeks, visibility of updates on the front page has expired</choice>
       <choice correct="false">Your account is enrolled as an admin, rather than a student, so you wouldn't see these</choice>
       <choice correct="false">Definitely the cat</choice>

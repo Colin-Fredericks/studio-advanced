@@ -3,7 +3,7 @@
     <label>How does edX typically connect with adaptive content libraries?</label>
     <choicegroup shuffle="true" type="MultipleChoice">
       <choice correct="true">Via the LTI protocol</choice>
-      <choice correct="false">They are built into the edX platform <choicehint>EdX does have a feature for content libraries, but they are non-adaptive - they serve only random assignments.</choicehint>
+      <choice correct="false">They are built into the edX platform <choicehint>Open edX does have a feature for content libraries, but they are non-adaptive - they serve only random assignments.</choicehint>
 </choice>
       <choice correct="false">They are an optional install for the edX platform</choice>
       <choice correct="false">Via API calls</choice>
@@ -11,7 +11,7 @@
     <solution>
       <div class="detailed-solution">
         <p>Explanation</p>
-        <p>EdX has no built-in facility for adaptive content. It is most often provided via LTI tools.</p>
+        <p>Open edX has no built-in facility for adaptive content. It is most often provided via LTI tools.</p>
       </div>
     </solution>
   </multiplechoiceresponse>

@@ -3,10 +3,10 @@
     <label>Which of the following is not a real edX log <code>event_type</code>?</label>
     <choicegroup shuffle="true" type="MultipleChoice">
       <choice correct="false">load_video</choice>
-      <choice correct="false">edx.video.loaded</choice>
-      <choice correct="false">edx.course.student_notes.added</choice>
+      <choice correct="false">Open edX.video.loaded</choice>
+      <choice correct="false">Open edX.course.student_notes.added</choice>
       <choice correct="false">reset-all-attempts</choice>
-      <choice correct="true">edx.problem.incorrect</choice>
+      <choice correct="true">Open edX.problem.incorrect</choice>
     </choicegroup>
     <solution>
       <div class="detailed-solution">

@@ -10,7 +10,7 @@
     <solution>
       <div class="detailed-solution">
         <p>Explanation</p>
-        <p>Grouping is always random, and you can reuse the same groups as many times as you like. For more detail, check out the <a href="https://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/course_features/content_experiments/content_experiments_overview.html#overview" target="_blank">edX documentation on content experiments</a>.</p>
+        <p>Grouping is always random, and you can reuse the same groups as many times as you like. For more detail, check out the <a href="https://edx.readthedocs.io/projects/edx-partner-course-staff/en/latest/course_features/content_experiments/content_experiments_overview.html#overview" target="_blank">Open edX documentation on content experiments</a>.</p>
       </div>
     </solution>
   </multiplechoiceresponse>
