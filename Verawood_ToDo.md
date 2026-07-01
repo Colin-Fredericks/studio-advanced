@@ -16,7 +16,7 @@
 - ✅ The xblock URLs aren't working, which is generally going to happen when the course moves servers anyway - Removed to simplify.
 - ✅ Take into account the fold (which wasn't there in the old days).
 
-### ✅ Links page
+### ✅ Links page -> Resources page
 
 - ✅ We should probably move to a more curated sharing option for the links page, given that we're finally experiencing spam on edx.org.
   - Removed and replaced with a Resources page, which currently points towards existing Open edX docs and guidelines.
@@ -27,7 +27,7 @@
 
 ## Welcome
 
-### Welcome to Studio Advanced
+### ✅ Welcome to Studio Advanced
 
 #### ✅ Welcome and Survey
 
@@ -65,10 +65,10 @@
 
 ### 1.1 - Creating a style sheet
 
-- **Summary:**
+- ✅ **Summary:**
   - ✅ Switch references from "edX" to "Open edX"
-  - Add notes about course-wide CSS
-  - Why are the icons so huge?
+  - ✅ Add notes about course-wide CSS
+  - ✅ Why are the icons so huge?
 - **Why bother?**
   - Make a prettier flowchart.
 - **Demo:**
